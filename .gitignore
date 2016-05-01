@@ -65,3 +65,4 @@ target/
 Django_Programming_Challenges_v1_4/settings_local.py
 Django_Programming_Challenges_v1_4/settings_remote.py
 db.sqlite3
+JustTest
